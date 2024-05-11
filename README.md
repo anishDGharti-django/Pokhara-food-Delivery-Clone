@@ -26,5 +26,6 @@ git clone https://github.com/your-username/pokhara-food-delivery-clone.git
 2. Install required packages
 3. Set up your local settings including database configurations and API keys.
 4. Run the server
+5. ENJIY
 
 Thank you for visiting this repository! Feel free to fork it, contribute, and reach out for any collaborations or queries.
