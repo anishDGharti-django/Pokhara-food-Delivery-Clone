@@ -29,3 +29,4 @@ git clone https://github.com/your-username/pokhara-food-delivery-clone.git
 5. ENJoy
 6. use this 
 Thank you for visiting this repository! Feel free to fork it, contribute, and reach out for any collaborations or queries.
+bie bie
